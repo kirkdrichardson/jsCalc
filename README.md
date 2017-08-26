@@ -1,6 +1,4 @@
 # JS Calculator
 
-![screenshot]("./files/screenshot.PNG")A
-
-
-
+![alt text][logo]
+[logo]: ./files/screenshot.PNG "Project screenshot"
